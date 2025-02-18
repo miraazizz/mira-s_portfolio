@@ -15,7 +15,7 @@ Project Repository: https://github.com/miraazizz/fyp.git
 Objective: to develope a predictive model to analyze customer buying patterns and improve sales forecasting.
 
 * The data collected was from Ayam Gepuk Pak Gembus, Seremban 3 restaurant
-* Methodology: Regression Analysis, Decision Trees, Classification Models
+* Methodology: Simulation
 * Tools Used: ARENA, Excel, SPSS
 * Key Insights: Achieved high accuracy in predicting repeat customers.
 
