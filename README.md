@@ -29,15 +29,15 @@ This is the project where I visualise the data from dummy data in the internet t
 * Key Insights: 
 
 # Skills & Tools
-* Programming: R, Python, SQL
-* Data Visualization: Tableau, Power BI, ggplot2, Matplotlib
-* Statistical Analysis: L-moments, Regression, Time Series
-* Machine Learning: Decision Trees, Clustering, Predictive Modeling
+* Programming: R
+* Data Visualization: Power BI
+* Statistical Analysis: L-moments
+* Machine Learning: 
 
 📞 Contact Me
 📧 Email: mira.aziz2105@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/nuramiraabdulaziz  
-📂 GitHub: https://github.com/yourusername (Replace with your actual link)
+📂 GitHub: https://github.com/miraazizz
 
 
 
