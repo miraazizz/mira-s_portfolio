@@ -21,12 +21,14 @@ Objective: to develope a predictive model to analyze customer buying patterns an
 
 Project Repository: https://github.com/miraazizz/queuing.git
 
-#[Project 3: Visualize data using power BI]
+# [Project 3: Visualize data using power BI](https://github.com/miraazizz/practice_projects.git)
 This is the project where I visualise the data from dummy data in the internet to practice my visualisation skills using tools.
 
-* Data collected from internet of dummy data
+* Data collected from dummy data on Internet
 * Tools: Microsoft Power BI
-* Key Insights: 
+* Key Insights:-
+
+Project Repository: https://github.com/miraazizz/practice_projects.git
 
 # Skills & Tools
 * Programming: R
