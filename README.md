@@ -34,10 +34,11 @@ This is the project where I visualise the data from dummy data in the internet t
 * Statistical Analysis: L-moments
 * Machine Learning: 
 
-📞 Contact Me
-📧 Email: mira.aziz2105@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/nuramiraabdulaziz  
+Contact Me \
+📧 Email: mira.aziz2105@gmail.com \
+🔗 LinkedIn: www.linkedin.com/in/nuramiraabdulaziz  \
 📂 GitHub: https://github.com/miraazizz
+
 
 
 
